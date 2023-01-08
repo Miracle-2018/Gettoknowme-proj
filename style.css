@@ -101,13 +101,3 @@ p {
   text-decoration: none;
   text-transform: capitalize;
 }
-@media (max-width: 576px) {
-  .email-link {
-    font-size: 18px;
-  }
-}
-@media (max-width: 576px) {
-  h1 {
-    font-size: 18px;
-  }
-}
